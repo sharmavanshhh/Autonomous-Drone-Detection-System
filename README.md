@@ -112,27 +112,28 @@ Autonomous-Drone-Detection/
 ```
 ### Screenshots
 **GUI Interface:**
-![Screenshot 2025-04-15 151156](https://github.com/user-attachments/assets/4ecdbc12-862d-4a68-a833-c36f733621e9)
+![Screenshot 2025-04-15 151156](https://github.com/user-attachments/assets/ce9038cd-d2e3-4bba-9cad-45c893b4b14e)
+
 
 **GUI Interface with Image - Based Detections:**
-![Screenshot 2025-04-15 145804](https://github.com/user-attachments/assets/e45722e1-8baa-4600-a25d-5aad3d597777)
-![Screenshot 2025-04-15 145736](https://github.com/user-attachments/assets/84ec910c-5a93-4730-a6bd-d093edf00433)
+![Screenshot 2025-04-15 145736](https://github.com/user-attachments/assets/2d4e1bdb-c7a6-4220-8776-c66bc5fa1c08)
+![Screenshot 2025-04-15 145804](https://github.com/user-attachments/assets/77ce832f-885c-492f-af06-0722622ea51d)
+
+
 
 **GUI Interface with Video - Based Frame - Wise Detections:**
-![Screenshot 2025-04-15 150329](https://github.com/user-attachments/assets/9eca5a6d-1d32-4b20-866a-ca6a10d6f0df)
-![Screenshot 2025-04-15 145914](https://github.com/user-attachments/assets/a173c83c-0342-48bc-a988-38293fe66608)
+![Screenshot 2025-04-15 145914](https://github.com/user-attachments/assets/631db248-1902-4361-8ae1-d0d7259c5436)
+![Screenshot 2025-04-15 150329](https://github.com/user-attachments/assets/44a7474c-9748-4db8-9038-8dff3c905804)
+
 
 *Same way GUI works in Real - Time Detections*
 
 ### Detection Results:
-![IMG-20250409-WA0041_final](https://github.com/user-attachments/assets/9ce560da-6b05-4032-bed9-d7e034391acb)
-
-![IMG-20250409-WA0057_final](https://github.com/user-attachments/assets/94dfa327-9b9f-45bb-ad57-4a92bf61a078)
-
-![drbrd_final](https://github.com/user-attachments/assets/16689a92-51ab-42f3-8299-761f42670258)
-
-![2025-03-19_16-41-35](https://github.com/user-attachments/assets/4514cea5-1e09-42b8-bbe3-2e12de666615) ![2025-03-19_16-42-43](https://github.com/user-attachments/assets/d1e0f547-9a74-44c2-a986-d3a29ab96026)
-
+![IMG-20250409-WA0041_final](https://github.com/user-attachments/assets/90a41ea3-c635-4a47-bddc-59afe824b90b)
+![drbrd_final](https://github.com/user-attachments/assets/e0d6fb9a-6d69-469f-8c18-e7eb6f5303af)
+![IMG-20250409-WA0026_final](https://github.com/user-attachments/assets/d05b0b9d-53dd-4fbd-a9a7-15d18dfce6b7)
+![2025-03-19_16-42-48](https://github.com/user-attachments/assets/20ad988e-fc5e-446a-a5bd-904496338e9d)
+![2025-03-19_16-42-55](https://github.com/user-attachments/assets/fccc68b8-83fa-4521-9409-19b3ae15c80e)
 
 ### Note : *This repository does not contain trained models, training dataset, training and testing codes for models*
 
