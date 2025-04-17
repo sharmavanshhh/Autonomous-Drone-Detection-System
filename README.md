@@ -1,4 +1,4 @@
-# Autonomous Drone Detection System
+# Autonomous-Drone-Detection-System
 
 A **Multimodal Camera-Based Drone Detection System** designed to identify unauthorized drone activities in restricted areas. The system leverages **YOLO**, **RetinaNet** (Detectron2), and **One-Class SVM** to detect drones in images, videos, and live feeds using a mobile phone camera (via DroidCam).
 
